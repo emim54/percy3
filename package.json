@@ -1,0 +1,22 @@
+{
+  "name": "figma",
+  "version": "1.0.0",
+  "description": "figma percy test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emim54/percy2.git"
+  },
+  "author": "emre im",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emim54/percy2/issues"
+  },
+  "homepage": "https://github.com/emim54/percy2#readme",
+  "dependencies": {
+    "percy-figma": "^1.0.8"
+  }
+}
