@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emim54/percy2.git"
+    "url": "git+https://github.com/emim54/percy3.git"
   },
   "author": "emre im",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/emim54/percy2/issues"
   },
-  "homepage": "https://github.com/emim54/percy2#readme",
+  "homepage": "https://github.com/emim54/percy3#readme",
   "dependencies": {
     "percy-figma": "^1.0.8"
   }
